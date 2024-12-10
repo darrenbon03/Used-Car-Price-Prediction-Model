@@ -1,5 +1,14 @@
 # Car Price Prediction with Inflation Adjustment
 
+## Pre-Trained Model
+To use the pre-trained model instead of training a new one, download the `best_model.pkl` file from the following link:
+
+[Download best_model.pkl](https://drive.google.com/file/d/1YOHWSmPlKK8Y4z1xujilawVc8Lg_aHDj/view?usp=drive_link)
+
+Place the file in the project directory where the `main.py` script is located.
+
+---
+
 ## Description
 This project predicts future car prices for specific makes and models by accounting for inflation. The program utilizes machine learning models (Random Forest and Gradient Boosting) trained on historical car price data. A visual representation of predicted prices over a specified range of years (2025–2030) is also provided.
 
