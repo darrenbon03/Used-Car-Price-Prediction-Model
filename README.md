@@ -130,6 +130,13 @@ Predicted prices over years:
 
 ---
 
+## Video Demo
+Watch the video demonstration of the project in action:
+
+[![Video Demo](https://img.youtube.com/vi/your_video_id/maxresdefault.jpg)](your_video_link)
+
+---
+
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions or improvements.
 
